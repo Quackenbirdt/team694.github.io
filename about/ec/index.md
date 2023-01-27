@@ -8,13 +8,13 @@ description: StuyPulse's Executive Council leads the team and includes the presi
 ### President of Engineering <small>{{ site.data.ec.poe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.poe.photo %} <img src="{{ site.data.ec.poe.photo }}" class="ec-photo" alt="President of Engineering"> {% endif %}
-The President of Engineering is familiar with every part of the robot, able to explain the part to another team member or a judge, as well as able to repair any part of the robot if it is broken. They are also knowledgeable about the details of the Chairman’s Award submission and other award submissions.
+The President of Engineering is familiar with every part of the robot, able to explain the part to another team member or a judge, as well as able to repair any part of the robot if it is broken. They are also knowledgeable about the details of the Impact Award submission and other award submissions.
 </div>
  
 ### President of Business <small>{{ site.data.ec.pob.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.pob.photo %} <img src="{{ site.data.ec.pob.photo }}" class="ec-photo" alt="President of Business"> {% endif %}
-The President of Business holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Chairman’s Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
+The President of Business holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Impact Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
 </div>
  
 ### President of Software Engineering <small>{{ site.data.ec.pse.name }}</small>
